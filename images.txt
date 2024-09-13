@@ -1,2 +1,1 @@
-80x86/lychee
-80x86/qbittorrent
+80x86/lychee:arm64-full-latest
