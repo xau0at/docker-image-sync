@@ -1,2 +1,2 @@
-mysql:5.7
-80x86/filebrowser:arm64
+80x86/lychee
+80x86/qbittorrent
