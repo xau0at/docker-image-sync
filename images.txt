@@ -1,1 +1,1 @@
-jellyfin/jellyfin:latest
+linuxserver/jellyfin:latest
