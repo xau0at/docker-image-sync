@@ -1,1 +1,2 @@
-amilys/embyserver_arm64v8:latest
+linuxserver/emby:4.8.8
+80x86/qbittorrent:4.3.5-alpine-3.13.5-arm64-full
