@@ -1,1 +1,1 @@
-linuxserver/jellyfin:latest
+amilys/embyserver_arm64v8:latest
