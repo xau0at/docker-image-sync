@@ -1,1 +1,1 @@
-linuxserver/emby:arm64v8-4.8.8
+80x86/qbittorrent:4.2.2-arm64
