@@ -1,1 +1,1 @@
-portainer/portainer:linux-arm64-1.24.2
+hslr/sun-panel:latest
