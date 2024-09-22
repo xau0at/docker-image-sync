@@ -1,1 +1,1 @@
-80x86/qbittorrent:4.2.2-arm64
+portainer/portainer:linux-arm64-1.24.2
