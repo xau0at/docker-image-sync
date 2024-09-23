@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.21.1
+portainer/portainer-ce:2.19.4
