@@ -1,1 +1,1 @@
-hsuyelin/nas-tools:latest
+portainer/portainer-ce:2.21.1
