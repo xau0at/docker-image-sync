@@ -1,1 +1,1 @@
-amilys/embyserver:4.9.0.29
+linuxserver/qbittorrent:amd64-4.6.7
