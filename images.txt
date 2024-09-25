@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:amd64-4.6.7
+linuxserver/jackett:amd64-0.22.666
