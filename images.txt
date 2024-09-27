@@ -1,1 +1,1 @@
-cnk3x/xunlei:latest
+--platform=linux/arm64 cnk3x/xunlei:latest
