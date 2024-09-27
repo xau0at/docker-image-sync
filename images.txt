@@ -1,1 +1,1 @@
-linuxserver/jackett:amd64-0.22.666
+cnk3x/xunlei:latest
