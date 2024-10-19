@@ -1,1 +1,1 @@
---platform=linux/arm64 cnk3x/xunlei:latest
+sulinggg/openwrt:armv8
