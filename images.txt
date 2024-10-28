@@ -1,1 +1,1 @@
-sulinggg/openwrt:armv8
+lstcml/n1_zerotier
