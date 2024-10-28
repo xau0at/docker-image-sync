@@ -1,1 +1,1 @@
-lstcml/n1_zerotier
+lstcml/n1_zerotier:latest
