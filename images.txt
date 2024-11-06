@@ -1,1 +1,1 @@
-devinme/video_tools:1.1
+devinme/video_tools:1.2.arm64
