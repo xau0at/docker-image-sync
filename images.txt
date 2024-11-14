@@ -1,1 +1,1 @@
-ophub/openwrt-aarch64:latest
+ piaoyizy/openwrt-aarch64:latest
