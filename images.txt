@@ -1,1 +1,1 @@
-piaoyizy/openwrt-aarch64:latest
+mojialin/openwrt_phicomm_n1:mini
