@@ -1,1 +1,1 @@
-tingshow163/openwrt:latest
+dingdongdong/openwrt:n1
