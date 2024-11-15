@@ -1,1 +1,1 @@
-zhaoweiwen123/openwrt-aarch64:latest
+14790897/openwrt:armv8-stable
