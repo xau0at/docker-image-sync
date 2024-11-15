@@ -1,1 +1,1 @@
-14790897/openwrt:armv8-stable
+fefx/openwrt-aarch64:latest
