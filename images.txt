@@ -1,1 +1,1 @@
-4points/openwrt:s905
+summary/openwrt-aarch64:latest
