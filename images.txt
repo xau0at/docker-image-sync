@@ -1,1 +1,1 @@
-fefx/openwrt-aarch64:latest
+4points/openwrt:s905
