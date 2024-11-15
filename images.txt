@@ -1,1 +1,1 @@
-dingdongdong/openwrt:n1
+dodolook/n1openwrt:latest
