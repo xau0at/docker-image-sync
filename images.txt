@@ -1,1 +1,1 @@
-summary/openwrt-aarch64:latest
+tingshow163/openwrt:latest
