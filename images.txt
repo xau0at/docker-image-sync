@@ -1,1 +1,1 @@
-dodolook/n1openwrt:latest
+seriousm4x/upsnap:latest
